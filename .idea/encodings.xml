@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/controller/dao/BaseDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/controller/dao/OpenDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhd/mysql/UserServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhd/po/AccessToken.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhd/po/WeiXinOauth2Token.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhd/service/CoreService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhd/servlet/InitServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhd/servlet/WeiXinServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhd/servlet/openUserServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhd/test/WeiXinTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhd/thread/TokenThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhd/util/AdvancedUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhd/util/CheckUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhd/util/MessageUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/hhd/util/WeiXinUtil.java" charset="GBK" />
+  </component>
+</project>
